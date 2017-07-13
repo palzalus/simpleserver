@@ -25,7 +25,7 @@ http.createServer(function(req, res){
 	}
 	catch(e){
 		res.writeHead(404, {'content-type' : 'text/plain'});
-		res.write('404 Not Found\n' + JSON.stringify(e));
+		res.write('404 Not Found\n');
 		res.end();
 		return;
 	}
