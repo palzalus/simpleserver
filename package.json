@@ -1,0 +1,23 @@
+{
+  "name": "simplewebserver",
+  "version": "1.0.0",
+  "description": "simple web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palzalus/simpleserver.git"
+  },
+  "keywords": [
+    "simple",
+    "server"
+  ],
+  "author": "pascal meers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palzalus/simpleserver/issues"
+  },
+  "homepage": "https://github.com/palzalus/simpleserver#readme"
+}
